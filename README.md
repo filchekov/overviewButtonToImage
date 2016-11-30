@@ -1,5 +1,5 @@
 # overviewButtonToImage
-function convert overview html button to image
+function convert overview HTML button (for file upload) to image
 
 PARAMS: <br />
 **input_id_or_element** - input dom element or input element id <br />
