@@ -1,2 +1,2 @@
 # overviewButtonToImage
-convert overview html button to image
+function convert overview html button to image
